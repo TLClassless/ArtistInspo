@@ -1,0 +1,17 @@
+<svg width="24px" height="24px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 6C3 5.44772 3.44772 5 4 5H13V7H3V6Z" fill="#EB5054"/>
+<rect x="3" y="7" width="10" height="2" fill="#EB794C"/>
+<rect x="3" y="9" width="10" height="2" fill="#E6AB28"/>
+<rect x="3" y="11" width="10" height="2" fill="#6DB345"/>
+<rect x="3" y="13" width="10" height="2" fill="#00A2EB"/>
+<rect x="3" y="15" width="10" height="2" fill="#A890CF"/>
+<path d="M3 17H13V19H4C3.44772 19 3 18.5523 3 18V17Z" fill="#CF8DBE"/>
+<path d="M10 4H20C20.5523 4 21 4.44772 21 5V6H10V4Z" fill="#FF575B"/>
+<rect x="10" y="6" width="11" height="2" fill="#FF8353"/>
+<rect x="10" y="8" width="11" height="2" fill="#FABA2C"/>
+<rect x="10" y="10" width="11" height="2" fill="#7AC74D"/>
+<rect x="10" y="12" width="11" height="2" fill="#00B0FF"/>
+<rect x="10" y="14" width="11" height="2" fill="#B99FE4"/>
+<path d="M10 16H21V17C21 17.5523 20.5523 18 20 18H10V16Z" fill="#E39BD1"/>
+<path d="M13 18H10L13 19V18Z" fill="#262525" fill-opacity="0.24"/>
+</svg>
