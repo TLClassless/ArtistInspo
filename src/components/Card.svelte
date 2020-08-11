@@ -1,9 +1,10 @@
 <script> 
-	let src="img/placeholder.svg"
+    let src="img/placeholder.svg"
+    import{Nav} from './Components.js'
 </script>
 
 <main class = "card">
-
+    <div class="content"> 
     <span class="visual">
         <img {src}>
     </span>
@@ -15,16 +16,25 @@
     <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce placerat nunc quis tellus rhoncus ullamcorper.
     </p>
+    </div>
     
+    <Nav></Nav>
+
 </main>
 
 <style>
 
+.content {
+    display: inline-flex;
+    flex-direction: column;
+    height: 100%;
+    flex: 1;
+}
+
 .card {
     display: inline-flex;
     flex-direction: column;
-    width: 100%;
-    height: 100%;
+    height:100vh
 }
 
 h1 {
@@ -46,7 +56,7 @@ p {
 .visual {
     display: flex;
     justify-content: center;
-    height: 60%;
+    height: 70%;
     width: 100%;
 }
 </style>

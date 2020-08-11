@@ -1,4 +1,4 @@
-<nav class="backandforth">
+<nav>
 
     <button>
         <p>Back</p>
@@ -8,13 +8,13 @@
         <p>Next</p>
     </button>
     
-    </nav>
+</nav>
     
     
-    <style> 
-        .backandforth {
+<style> 
+        nav {
             display: flex;
             flex-direction: row;
             justify-content: space-between;
         }
-    </style>
+</style>
