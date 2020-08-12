@@ -18,7 +18,7 @@
         justify-content: space-between;
     }
 
-    p {
+    button {
         font-family: 'PT Serif', serif;
         font-size: 16pt;
         font-weight: 800;

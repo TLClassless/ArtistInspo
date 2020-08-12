@@ -1,10 +1,11 @@
 <script>
     let src="img/placeholder.svg"
+    import {Swiper} from "./Components.js";
 </script>
 
 <div class="content"> 
     <span class="visual">
-        <img {src} alt="placeholder">
+        <Swiper></Swiper>
     </span>
     
     <h1>
