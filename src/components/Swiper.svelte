@@ -15,22 +15,29 @@ let defaultIndex = 0; //start from 0
 <div class="swipe-holder">
     <Swipe {showIndicators} {autoplay} {delay} {transitionDuration} {defaultIndex}>
       <SwipeItem>
-        <img src={placeholder1} alt="">
+        <img class = "swipe-img" src={placeholder1} alt="">
       </SwipeItem>
   
       <SwipeItem>
-        <img src={placeholder2} alt="">
+        <img class = "swipe-img" src={placeholder2} alt="">
       </SwipeItem>
   
       <SwipeItem>
-        <img src={placeholder3} alt="">
+        <img class = "swipe-img" src={placeholder3} alt="">
       </SwipeItem>
     </Swipe>
 </div>
 
 <style>
-  img{
-    max-width: 100%;
-    height: auto;
+
+.swipe-holder {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+img{
+    display: flex;
   }
 </style>
