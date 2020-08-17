@@ -1,6 +1,7 @@
 <script>
     let src="img/placeholder.svg"
     import {Swiper} from "./Components.js";
+    import {TitleDescription} from "./Components.js"
 </script>
 
 <div class="content"> 
