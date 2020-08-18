@@ -1,3 +1,4 @@
+
 // color array
 
 var colors = ["Monochromatic", "Analogous", "Complementary", "Split-Complementary", "Triad", "Tetradic"]
@@ -6,9 +7,6 @@ var medium = ["Acrylic Painting", "Digital Painting", "Stencil Art", "Oil Painti
 // item array
 
 var proto = {
-    name: null,
-    description: null,
-    img: src = null,
     color: function () {
         return colors[Math.floor(Math.random() * colors.length)];
     },
@@ -66,3 +64,19 @@ var surprise = {
 };
 
 let titleArray = [nostalgia, repentance, sadness, theSea, smiling, surprise];
+
+function chooser() {
+    return titleArray[Math.floor(Math.random() * titleArray.length)];
+  }
+
+var chosen  = chooser();
+
+// Title And Description
+document.getElementById("title").innerHTML = chosen.name;
+document.getElementById("description").innerHTML = chosen.description;
+
+// Images
+document.getElementById("img").innerHTML = chosen.img;
+document.getElementById("color").innerHTML = chosen.color;
+document.getElementById("medium").innerHTML = chosen.medium;
+

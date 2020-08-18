@@ -1,34 +1,31 @@
 <script>
-    let src="img/placeholder.svg"
-    let jssrc="js/arrayFunc.js"
     import {Swiper} from "./Components.js";
-    import {TitleDescription} from "./Components.js"
 </script>
 
-<div class="content"> 
-    <span class="SwiperWrapper">
+<div id="content"> 
+    <span id="SwiperWrapper">
         <Swiper></Swiper>
     </span>
-    
-    <h1 class="title">
+    <h1 id="title">
         Placeholder
     </h1>
     
-    <p class="description">
+    <p id="description">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce placerat nunc quis tellus rhoncus ullamcorper.
     </p>
+    
 </div>
 
 <style>
 
-.content {
+#content {
     display: inline-flex;
     flex-direction: column;
     height: 80%;
     flex: 1;
 }
 
-.title {
+#title {
     margin: 10px;
     display: flex;
     font-family: 'PT Serif', serif;
@@ -37,7 +34,7 @@
     font-size: 24pt;
 }
 
-.description {
+#description {
     margin: 10px;
     display: flex;
     font-family: 'PT Serif', serif;
@@ -46,7 +43,7 @@
     font-size: 16pt;
 }
 
-.SwiperWrapper {
+#SwiperWrapper {
     display: flex;
     justify-content: center;
     height: 70%;
