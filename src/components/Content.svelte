@@ -1,5 +1,7 @@
 <script>
     import {Swiper} from "./Components.js";
+    import {chooser} from "../js/arrayFunc";
+    var chosen  = chooser();
 </script>
 
 <div id="content"> 
@@ -7,11 +9,11 @@
         <Swiper></Swiper>
     </span>
     <h1 id="title">
-        Placeholder
+        {chosen.name}
     </h1>
     
     <p id="description">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce placerat nunc quis tellus rhoncus ullamcorper.
+        {chosen.description}
     </p>
     
 </div>
