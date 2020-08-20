@@ -1,7 +1,7 @@
 <script>
     import {Swiper} from "./Components.js";
-    import {chooser} from "../js/arrayFunc";
-    var chosen  = chooser();
+    import {chosen} from "../js/arrayFunc";
+    
 </script>
 
 <div id="content"> 

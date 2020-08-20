@@ -65,7 +65,8 @@ var surprise = {
 
 let titleArray = [nostalgia, repentance, sadness, theSea, smiling, surprise];
 
-export function chooser() {
+function chooser() {
     return titleArray[Math.floor(Math.random() * titleArray.length)];
   }
 
+export var chosen  = chooser();

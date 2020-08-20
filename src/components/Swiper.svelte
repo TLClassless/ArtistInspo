@@ -1,5 +1,6 @@
 <script>
       import { Swipe, SwipeItem } from "svelte-swipe"; // gzipped 3.37 KB
+      import { chosen } from "../js/arrayFunc";
 
 let placeholder1 = "img/placeholder 1.png"
 let placeholder2 = "img/placeholder 2.png"
@@ -14,17 +15,19 @@ let defaultIndex = 0; //start from 0
 
 <div class="swipe-holder">
     <Swipe {showIndicators} {autoplay} {delay} {transitionDuration} {defaultIndex}>
+
       <SwipeItem>
-        <span class="image"><h3>img</h3></span>
+        <span class="image"><img src="{chosen.img}"></span>
       </SwipeItem>
   
       <SwipeItem>
-        <span class="color"><h3>color</h3></span>
+        <span class="color">{chosen.color}</span>
       </SwipeItem>
   
       <SwipeItem>
-        <span class="medium"><h3>medium</h3></span>
+        <span class="medium">{chosen.medium}</span>
       </SwipeItem>
+
     </Swipe>
 </div>
 
