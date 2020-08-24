@@ -17,7 +17,7 @@ let defaultIndex = 0; //start from 0
     <Swipe {showIndicators} {autoplay} {delay} {transitionDuration} {defaultIndex}>
 
       <SwipeItem>
-        <span class="image"><img src="{chosen.img}"></span>
+        <span class="image"><img src="{chosen.img}" alt=""></span>
       </SwipeItem>
   
       <SwipeItem>
@@ -44,6 +44,8 @@ let defaultIndex = 0; //start from 0
 .image, .color, .medium {
     display: flex;
     align-self: center;
+    float: left;
+    object-fit: contain;
   }
 
 </style>

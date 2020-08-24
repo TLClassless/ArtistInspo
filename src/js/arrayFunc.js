@@ -17,48 +17,48 @@ var proto = {
 
 var nostalgia = {
     name: "Nostalgia",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce placerat nunc quis tellus rhoncus ullamcorper.",
-    img: "https://picsum.photos/200/300?random=2",
+    description: "A wistful desire to return in thought or in fact to a former time in one's life.",
+    img: "img/nostalgia.jpg",
     color: proto.color(),
     medium: proto.medium()
 };
 
 var repentance = {
     name: "Repentance",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce placerat nunc quis tellus rhoncus ullamcorper.",
-    img: "https://picsum.photos/200/300?random=3",
+    description: "Repentance is the activity of reviewing one's actions and feeling contrition or regret for past wrongs.",
+    img: "img/repentance.jpg",
     color: proto.color(),
     medium: proto.medium()
 };
 
 var sadness = {
     name: "Sadness",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce placerat nunc quis tellus rhoncus ullamcorper.",
-    img: "https://picsum.photos/200/300?random=4",
+    description: "Sadness is an emotional pain of disadvantage, loss, despair, grief, helplessness, disappointment and sorrow.",
+    img: "img/sadness.jpg",
     color: proto.color(),
     medium: proto.medium()
 };
 
 var theSea = {
-    name: "The Sea",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce placerat nunc quis tellus rhoncus ullamcorper.",
-    img: "https://picsum.photos/200/300?random=5",
+    name: "Ocean",
+    description: "The ocean is the beginning of life on Earth, and symbolizes formlessness, the unfathomable, and chaos.",
+    img: "img/thesea.jpg",
     color: proto.color(),
     medium: proto.medium()
 };
 
 var smiling = {
     name: "Smiling",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce placerat nunc quis tellus rhoncus ullamcorper.",
-    img: "https://picsum.photos/200/300?random=6",
+    description: "A smile expresses pleasure, sociability, happiness, joy or amusement.",
+    img: "img/smiling.jpg",
     color: proto.color(),
     medium: proto.medium()
 };
 
 var surprise = {
     name: "Surprise",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce placerat nunc quis tellus rhoncus ullamcorper.",
-    img: "https://picsum.photos/200/300?random=7",
+    description: "Surprise can have any valence; that is, it can be neutral/moderate, pleasant, unpleasant, positive, or negative.",
+    img: "img/surprise.jpg",
     color: proto.color(),
     medium: proto.medium()
 };

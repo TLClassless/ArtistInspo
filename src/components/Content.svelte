@@ -50,5 +50,6 @@
     justify-content: center;
     height: 70%;
     width: 100%;
+    border-radius: 25px;
 }
 </style>
