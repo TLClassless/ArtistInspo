@@ -48,7 +48,7 @@
 #SwiperWrapper {
     display: flex;
     justify-content: center;
-    height: 70%;
+    height: 80%;
     width: 100%;
     border-radius: 25px;
 }

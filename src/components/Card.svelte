@@ -16,7 +16,7 @@
 .card {
     display: inline-flex;
     flex-direction: column;
-    height:100%
+    height:100%;
 }
 
 </style>

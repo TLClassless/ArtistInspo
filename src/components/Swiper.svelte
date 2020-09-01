@@ -43,10 +43,11 @@ let defaultIndex = 0; //start from 0
 
 img {
     display: flex;
-    align-self: center;
+    align-items: center;
     float: left;
     min-width: 300px;
     max-width: 380px;
+    max-height: 800px;
     height: auto;
   }
 
