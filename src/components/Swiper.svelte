@@ -21,11 +21,11 @@ let defaultIndex = 0; //start from 0
       </SwipeItem>
   
       <SwipeItem>
-        <span class="image1">{chosen.img1}</span>
+        <span class="image1"><img src="{chosen.img1}" alt=""></span>
       </SwipeItem>
   
       <SwipeItem>
-        <span class="image2">{chosen.img2}</span>
+        <span class="image2"><img src="{chosen.img2}" alt=""></span>
       </SwipeItem>
 
     </Swipe>
@@ -41,11 +41,13 @@ let defaultIndex = 0; //start from 0
   height: 100%;
 }
 
-.image0, .image1, .image2 {
+img {
     display: flex;
     align-self: center;
     float: left;
-    object-fit: contain;
+    min-width: 300px;
+    max-width: 380px;
+    height: auto;
   }
 
 </style>
