@@ -1,4 +1,4 @@
-# ![inspologo](img/favicon-32.png) iNspo
+# ![inspologo](public/img/favicon-32.png) iNspo
 
 > Art is not what you see,
 > but what you make others see.
