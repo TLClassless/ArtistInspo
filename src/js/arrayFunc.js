@@ -55,9 +55,9 @@ var smiling = {
 var surprise = {
     name: "Surprise",
     description: "Surprise can have any valence; that is, it can be neutral/moderate, pleasant, unpleasant, positive, or negative.",
-    img0: "img/repentance-" + proto.img0() + ".jpg",
-    img1: "img/repentance-" + proto.img1() + ".jpg",
-    img2: "img/repentance-" + proto.img2() + ".jpg"
+    img0: "img/surprise-" + proto.img0() + ".jpg",
+    img1: "img/surprise-" + proto.img1() + ".jpg",
+    img2: "img/surprise-" + proto.img2() + ".jpg"
 };
 
 let titleArray = [nostalgia, repentance, sadness, ocean, smiling, surprise];
