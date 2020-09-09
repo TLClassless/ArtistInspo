@@ -4,7 +4,7 @@
         <p>Back</p>
     </button>
 
-    <button>
+    <button onClick="window.location.reload();">
         <p>Next</p>
     </button>
     
