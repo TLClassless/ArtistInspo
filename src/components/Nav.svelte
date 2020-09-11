@@ -20,7 +20,6 @@
 
     button {
         font-family: 'PT Serif', serif;
-        font-size: 16pt;
         font-weight: 800;
     }
 
@@ -33,6 +32,7 @@
         text-decoration: none;
         display: inline-flex;
         font-size: 16px;
+        font-size: 2.6vh;
         cursor: pointer;
 }
 </style>

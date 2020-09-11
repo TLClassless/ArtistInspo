@@ -52,7 +52,7 @@
     font-size: 16pt;
     min-height: 100px;
     max-height: 10vh;
-    font-size: 2.8vh;
+    font-size: 2.6vh;
 }
 
 #SwiperWrapper {
