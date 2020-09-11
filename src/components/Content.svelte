@@ -40,7 +40,7 @@
     text-align: center;
     justify-content: center;
     font-size: 24pt;
-    font-size: 3vh;
+    font-size: 4vh;
 }
 
 #description {
@@ -51,7 +51,8 @@
     justify-content: center;
     font-size: 16pt;
     min-height: 100px;
-    font-size: 3vh;
+    max-height: 10vh;
+    font-size: 2.8vh;
 }
 
 #SwiperWrapper {
