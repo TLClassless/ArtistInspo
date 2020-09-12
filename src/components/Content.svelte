@@ -8,17 +8,23 @@
     <span id="SwiperWrapper">
         <Swiper></Swiper>
     </span>
-    <h1 id="title">
-        {chosen.name}
-    </h1>
+    <div class="title-description">
+        <h1 id="title">
+            {chosen.name}
+        </h1>
     
-    <p id="description">
-        {chosen.description}
-    </p>
+        <p id="description">
+            {chosen.description}
+        </p>
+    </div>
     
 </div>
 
 <style>
+
+.title-description {
+    height: 30%;
+}
 
 #content {
     display: inline-flex;
@@ -34,6 +40,7 @@
     text-align: center;
     justify-content: center;
     font-size: 24pt;
+    font-size: 4vh;
 }
 
 #description {
@@ -43,12 +50,16 @@
     text-align: center;
     justify-content: center;
     font-size: 16pt;
+    min-height: 100px;
+    max-height: 10vh;
+    font-size: 2.6vh;
 }
 
 #SwiperWrapper {
     display: flex;
     justify-content: center;
     height: 80%;
+    min-height: 50vh;
     width: 100%;
     border-radius: 25px;
 }

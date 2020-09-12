@@ -28,6 +28,14 @@ let defaultIndex = 0; //start from 0
         <span class="image2"><img src="{chosen.img2}" alt=""></span>
       </SwipeItem>
 
+      <SwipeItem>
+        <span class="image3"><img src="{chosen.img3}" alt=""></span>
+      </SwipeItem>
+
+      <SwipeItem>
+        <span class="image4"><img src="{chosen.img4}" alt=""></span>
+      </SwipeItem>
+
     </Swipe>
 </div>
 
