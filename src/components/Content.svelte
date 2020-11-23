@@ -1,13 +1,9 @@
 <script>
-    import {Swiper} from "./Components.js";
     import {chosen} from "../js/arrayFunc";
     
 </script>
 
 <div id="content"> 
-    <span id="SwiperWrapper">
-        <Swiper></Swiper>
-    </span>
     <div class="title-description">
         <h1 id="title">
             {chosen.name}
@@ -23,14 +19,12 @@
 <style>
 
 .title-description {
-    height: 30%;
+    height: 100%;
 }
 
 #content {
-    display: inline-flex;
+    display: flex;
     flex-direction: column;
-    height: 80%;
-    flex: 1;
 }
 
 #title {
@@ -39,8 +33,8 @@
     font-family: 'PT Serif', serif;
     text-align: center;
     justify-content: center;
-    font-size: 24pt;
-    font-size: 4vh;
+    font-size: 30pt;
+    font-weight: 600;
 }
 
 #description {
@@ -49,18 +43,6 @@
     font-family: 'PT Serif', serif;
     text-align: center;
     justify-content: center;
-    font-size: 16pt;
-    min-height: 100px;
-    max-height: 10vh;
-    font-size: 2.6vh;
-}
-
-#SwiperWrapper {
-    display: flex;
-    justify-content: center;
-    height: 80%;
-    min-height: 50vh;
-    width: 100%;
-    border-radius: 25px;
+    font-size: 20pt;
 }
 </style>

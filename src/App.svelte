@@ -7,7 +7,7 @@
 </body>
 <style>
 	body {
-		max-width: 380px;
+		max-width: 600px;
 		max-height: 800px;
 		min-height: 600px;
 	}

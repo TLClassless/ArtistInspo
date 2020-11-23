@@ -13,6 +13,7 @@
     
 <style> 
     nav {
+        width: 100%;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
@@ -27,12 +28,10 @@
         background-color: transparent;
         border: none;
         color: #333;
-        padding: 10px 30px;
         text-align: center;
         text-decoration: none;
         display: inline-flex;
-        font-size: 16px;
-        font-size: 2.6vh;
+        font-size: 20pt;
         cursor: pointer;
 }
 </style>

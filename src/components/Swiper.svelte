@@ -49,14 +49,4 @@ let defaultIndex = 0; //start from 0
   height: 100%;
 }
 
-img {
-    display: flex;
-    align-items: center;
-    float: left;
-    min-width: 300px;
-    max-width: 380px;
-    max-height: 800px;
-    height: auto;
-  }
-
 </style>
