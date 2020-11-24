@@ -17,23 +17,23 @@ let defaultIndex = 0; //start from 0
     <Swipe {showIndicators} {autoplay} {delay} {transitionDuration} {defaultIndex}>
 
       <SwipeItem>
-        <span class="image0"><img src="{chosen.img0}" alt=""></span>
+        <span class="image0"><img src="{chosen.img0}" alt="img 1"></span>
       </SwipeItem>
   
       <SwipeItem>
-        <span class="image1"><img src="{chosen.img1}" alt=""></span>
+        <span class="image1"><img src="{chosen.img1}" alt="img 2"></span>
       </SwipeItem>
   
       <SwipeItem>
-        <span class="image2"><img src="{chosen.img2}" alt=""></span>
+        <span class="image2"><img src="{chosen.img2}" alt="img 3"></span>
       </SwipeItem>
 
       <SwipeItem>
-        <span class="image3"><img src="{chosen.img3}" alt=""></span>
+        <span class="image3"><img src="{chosen.img3}" alt="img 4"></span>
       </SwipeItem>
 
       <SwipeItem>
-        <span class="image4"><img src="{chosen.img4}" alt=""></span>
+        <span class="image4"><img src="{chosen.img4}" alt="img 5"></span>
       </SwipeItem>
 
     </Swipe>
@@ -50,7 +50,7 @@ let defaultIndex = 0; //start from 0
 }
 
 img {
-  height: 100%;
+  width: 100%;
 }
 
 
