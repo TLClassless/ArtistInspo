@@ -1,5 +1,7 @@
 # ![inspologo](public/img/favicon-32.png) iNspo
 
+[Click Here for Current Devlopment Build](https://hardcore-heisenberg-d004ff.netlify.app/)
+
 > Art is not what you see,
 > but what you make others see.
 
