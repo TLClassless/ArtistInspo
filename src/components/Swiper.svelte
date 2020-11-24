@@ -5,7 +5,7 @@
 let autoplay = false;
 let delay = 2000; //ms
 let showIndicators = true;
-let transitionDuration = 1000; //ms
+let transitionDuration = 500; //ms
 let defaultIndex = 0; //start from 0
 </script>
 

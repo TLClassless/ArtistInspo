@@ -16,14 +16,15 @@
     }
 
     span {
-        padding: 5px 13px;
-        margin: 10px 0 0 0;
-        font-family: 'PT Serif', serif;
+        height: 50px;
+        width: 50px;
+        font-family: sans-serif;
         font-weight: 800;
         background-color: #333;
         border: none;
         color: #fff;
         text-align: center;
+        justify-content: center;
         text-decoration: none;
         display: inline-flex;
         font-size: 15pt;
@@ -32,7 +33,9 @@
     }
 
     p {
+        display: flex;
         margin: 0;
+        align-items: center;
     }
 
     @media screen and (min-width: 800px) {
