@@ -46,12 +46,14 @@ let defaultIndex = 0; //start from 0
 }
 
 img {
-  width: 100%;
+  height: 100%;
 }
 
-:root {
-  --sv-swipe-indicator-active-color: #fff;
-  --sv-swipe-indicator: #fff;
+@media screen and (max-height: 800px) {
+  img {
+    height: auto;
+    width: 100%;
+  }
 }
 
 

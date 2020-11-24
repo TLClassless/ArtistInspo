@@ -9,14 +9,15 @@
 </body>
 <style>
 	body {
-		max-width: 500px;
+		max-width: 450px;
+		max-height: 1000px;
 		min-height: 600px;
-		box-shadow: 0 0 50px 15px grey;
-		display: flex;
-		justify-content: center;
 	}
 
-	div {
-		display: flex;
+	@media screen and (min-width: 800px) {
+		body {
+			box-shadow: 0 0 50px 15px grey;
+			display: flex;
+		}
 	}
 </style>

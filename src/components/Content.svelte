@@ -1,6 +1,6 @@
 <script>
     import {chosen} from "../js/arrayFunc";
-    
+    import { arrayFunc } from "../js/arrayFunction";    
 </script>
 
 <div id="content"> 
@@ -18,7 +18,6 @@
             </p>
         </span>
     </div>
-    
 </div>
 
 <style>
