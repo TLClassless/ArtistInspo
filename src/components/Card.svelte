@@ -9,9 +9,7 @@
     <div class= "content">
         <Swiper></Swiper>
         <Content></Content>
-        <div class="nav">
-            <Nav></Nav>
-        </div>
+        <Nav></Nav>
     </div>
 
 </main>
@@ -22,7 +20,7 @@
         flex-direction: column;
         align-content: center;
         justify-content: center;
-        height: 100vh;
+        height: 100%;
         overflow: hidden;
     }
 
@@ -31,9 +29,4 @@
         flex-direction: column;
         height: 100%;
     }
-
-    .nav {
-        display: flex;
-    }
-
 </style>

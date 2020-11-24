@@ -1,12 +1,8 @@
 <nav>
 
-    <button>
-        <p>Back</p>
-    </button>
-
-    <button onClick="window.location.reload();">
-        <p>Next</p>
-    </button>
+    <span onClick="window.location.reload();">
+        <p>{">"}</p>
+    </span>
     
 </nav>
     
@@ -16,22 +12,26 @@
         width: 100%;
         display: flex;
         flex-direction: row;
-        justify-content: space-between;
+        justify-content: center;
     }
 
-    button {
+    span {
+        padding: 5px 13px;
+        margin: 10px 0 0 0;
         font-family: 'PT Serif', serif;
         font-weight: 800;
-    }
-
-    button {
-        background-color: transparent;
+        background-color: #333;
         border: none;
-        color: #333;
+        color: #fff;
         text-align: center;
         text-decoration: none;
         display: inline-flex;
-        font-size: 20pt;
+        font-size: 15pt;
         cursor: pointer;
+        border-radius: 50%;
 }
+
+    p {
+        margin: 0;
+    }
 </style>
