@@ -49,4 +49,9 @@ let defaultIndex = 0; //start from 0
   height: 100%;
 }
 
+img {
+  height: 100%;
+}
+
+
 </style>
