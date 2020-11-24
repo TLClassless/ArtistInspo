@@ -2,10 +2,6 @@
       import { Swipe, SwipeItem } from "svelte-swipe"; // gzipped 3.37 KB
       import { chosen } from "../js/arrayFunc";
 
-let placeholder1 = "img/placeholder 1.png"
-let placeholder2 = "img/placeholder 2.png"
-let placeholder3 = "img/placeholder 3.png"
-
 let autoplay = false;
 let delay = 2000; //ms
 let showIndicators = true;
@@ -51,6 +47,11 @@ let defaultIndex = 0; //start from 0
 
 img {
   width: 100%;
+}
+
+:root {
+  --sv-swipe-indicator-active-color: #fff;
+  --sv-swipe-indicator: #fff;
 }
 
 

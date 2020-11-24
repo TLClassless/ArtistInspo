@@ -12,10 +12,11 @@
         <p id="uid">
             {chosen.uid}
         </p>
-    
-        <p id="description">
-            {chosen.description}
-        </p>
+        <span>
+            <p id="description">
+                {chosen.description}
+            </p>
+        </span>
     </div>
     
 </div>
@@ -57,5 +58,17 @@
     text-align: left;
     font-size: 15pt;
     color: #545454;
+    height: 80px;
+}
+
+@media screen and (min-width: 800px) {
+
+    #uid {
+        margin-bottom: 20px;
+    }
+
+    #description {
+        margin-bottom: 20px;
+    }
 }
 </style>

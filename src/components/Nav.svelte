@@ -29,9 +29,16 @@
         font-size: 15pt;
         cursor: pointer;
         border-radius: 50%;
-}
+    }
 
     p {
         margin: 0;
+    }
+
+    @media screen and (min-width: 800px) {
+
+        nav {
+            margin-bottom: 20px;
+        }
     }
 </style>
