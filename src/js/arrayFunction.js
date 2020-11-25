@@ -1,2 +1,3 @@
 const array = require("../js/array.json");
-console.log(JSON.stringify(array[1]));
+const randomElement = array[Math.floor(Math.random() * array.length)];
+console.log(JSON.stringify(randomElement));

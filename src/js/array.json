@@ -28,5 +28,125 @@
     "name": "Surprise",
     "uid": "iN-0182-006",
     "description": "Surprise can have any valence; that is, it can be neutral/moderate, pleasant, unpleasant, positive, or negative."
+  },
+  {
+    "name": "Captivity",
+    "uid": "iN-0182-007",
+    "description": "The state or period of being held, imprisoned, enslaved, or confined."
+  },
+  {
+    "name": "Flourishing",
+    "uid": "iN-0182-008",
+    "description": "Developing rapidly and successfully; thriving."
+  },
+  {
+    "name": "Freedom",
+    "uid": "iN-0182-009",
+    "description": "Freedom, generally, is having the ability to act or change without restraint."
+  },
+  {
+    "name": "Garden",
+    "uid": "iN-0182-010",
+    "description": "A garden is a planned space, usually outdoors, set aside for the display, cultivation, or enjoyment of plants and other forms of nature."
+  },
+  {
+    "name": "Midnight",
+    "uid": "iN-0182-011",
+    "description": "Midnight is the transition time between days, sometimes known as the Witching Hour, the time of night associated with supernatural events."
+  },
+  {
+    "name": "Tattoo",
+    "uid": "iN-0182-012",
+    "description": "A tattoo is a permanent kind of body art present in many cultures."
+  },
+  {
+    "name": "Galaxy",
+    "uid": "iN-0182-013",
+    "description": "A galaxy is a gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter."
+  },
+  {
+    "name": "Allure",
+    "uid": "iN-0182-014",
+    "description": "The quality of being powerfully and mysteriously attractive or fascinating."
+  },
+  {
+    "name": "Pride",
+    "uid": "iN-0182-015",
+    "description": "Pride is an emotional state attaining positive affect from the value of a person or thing with which one has an intimate connection."
+  },
+  {
+    "name": "Adventure",
+    "uid": "iN-0182-016",
+    "description": "An adventure is an exciting experience that is typically bold, sometimes risky, undertaking."
+  },
+  {
+    "name": "Remarkable",
+    "uid": "iN-0182-017",
+    "description": "worthy of attention; striking."
+  },
+  {
+    "name": "Power",
+    "uid": "iN-0182-018",
+    "description": "the capacity or ability to direct or influence the behaviour of others or the course of events."
+  },
+  {
+    "name": "Revolution",
+    "uid": "iN-0182-019",
+    "description": "A radical and pervasive change in society and the social structure, especially one made suddenly."
+  },
+  {
+    "name": "Destiny",
+    "uid": "iN-0182-020",
+    "description": "Events that will necessarily happen to a particular person or thing in the future."
+  },
+  {
+    "name": "Shadows",
+    "uid": "iN-0182-021",
+    "description": "Used in reference to proximity, ominous oppressiveness, or sadness and gloom."
+  },
+  {
+    "name": "Myth",
+    "uid": "iN-0182-022",
+    "description": "A traditional, legendary tale, concerning some being or hero or event, with or without a determinable basis of fact."
+  },
+  {
+    "name": "Tarot",
+    "uid": "iN-0182-023",
+    "description": "Playing cards, traditionally a pack of 78 with five suits, used for fortune-telling and in certain games."
+  },
+  {
+    "name": "Skull",
+    "uid": "iN-0182-024",
+    "description": "A bone framework enclosing the brain of a vertebrate."
+  },
+  {
+    "name": "Decay",
+    "uid": "iN-0182-025",
+    "description": "The state or process of rotting or decomposition."
+  },
+  {
+    "name": "Mushrooms",
+    "uid": "iN-0182-026",
+    "description": "a fungal growth that typically takes the form of a domed cap on a stalk, with gills on the underside of the cap."
+  },
+  {
+    "name": "Warrior",
+    "uid": "iN-0182-027",
+    "description": "A brave or experienced soldier or fighter, especially within the context of a tribal or clan-based warrior culture"
+  },
+  {
+    "name": "Treasure",
+    "uid": "iN-0182-028",
+    "description": "To take great care of something because you love it or consider it very valuable."
+  },
+  {
+    "name": "Masculinity",
+    "uid": "iN-0182-029",
+    "description": "Masculinity is a set of attributes, behaviors, and roles traditionally associated with boys and men."
+  },
+  {
+    "name": "Femininity",
+    "uid": "iN-0182-030",
+    "description": "Femininity is a set of attributes, behaviors, and roles traditionally associated with women and girls."
   }
 ]
