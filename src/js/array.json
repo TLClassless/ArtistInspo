@@ -2,151 +2,421 @@
   {
     "name": "Nostalgia",
     "uid": "iN-0182-001",
-    "description": "A wistful desire to return in thought or in fact to a former time in one's life."
+    "description": "A wistful desire to return in thought or in fact to a former time in one's life.",
+    "img": [
+      {
+        "0": "img/nostalgia/0.jpg",
+        "1": "img/nostalgia/1.jpg",
+        "2": "img/nostalgia/2.jpg",
+        "3": "img/nostalgia/3.jpg",
+        "4": "img/nostalgia/4.jpg"
+      }
+    ]
   },
   {
     "name": "Repentance",
     "uid": "iN-0182-002",
-    "description": "Repentance is the activity of reviewing one's actions and feeling contrition or regret for past wrongs."
+    "description": "Repentance is the activity of reviewing one's actions and feeling contrition or regret for past wrongs.",
+    "img": [
+      {
+        "0": "img/repentance/0.jpg",
+        "1": "img/repentance/1.jpg",
+        "2": "img/repentance/2.jpg",
+        "3": "img/repentance/3.jpg",
+        "4": "img/repentance/4.jpg"
+      }
+    ]
   },
   {
     "name": "Sadness",
     "uid": "iN-0182-003",
-    "description": "Sadness is an emotional pain of disadvantage, loss, despair, grief, helplessness, disappointment and sorrow."
+    "description": "Sadness is an emotional pain of disadvantage, loss, despair, grief, helplessness, disappointment and sorrow.",
+    "img": [
+      {
+        "0": "img/sadness/0.jpg",
+        "1": "img/sadness/1.jpg",
+        "2": "img/sadness/2.jpg",
+        "3": "img/sadness/3.jpg",
+        "4": "img/sadness/4.jpg"
+      }
+    ]
   },
   {
     "name": "Ocean",
     "uid": "iN-0182-004",
-    "description": "The ocean is the beginning of life on Earth, and symbolizes formlessness, the unfathomable, and chaos."
+    "description": "The ocean is the beginning of life on Earth, and symbolizes formlessness, the unfathomable, and chaos.",
+    "img": [
+      {
+        "0": "img/ocean/0.jpg",
+        "1": "img/ocean/1.jpg",
+        "2": "img/ocean/2.jpg",
+        "3": "img/ocean/3.jpg",
+        "4": "img/ocean/4.jpg"
+      }
+    ]
   },
   {
     "name": "Smiling",
     "uid": "iN-0182-005",
-    "description": "A smile expresses pleasure, sociability, happiness, joy or amusement."
+    "description": "A smile expresses pleasure, sociability, happiness, joy or amusement.",
+    "img": [
+      {
+        "0": "img/smiling/0.jpg",
+        "1": "img/smiling/1.jpg",
+        "2": "img/smiling/2.jpg",
+        "3": "img/smiling/3.jpg",
+        "4": "img/smiling/4.jpg"
+      }
+    ]
   },
   {
     "name": "Surprise",
     "uid": "iN-0182-006",
-    "description": "Surprise can have any valence; that is, it can be neutral/moderate, pleasant, unpleasant, positive, or negative."
+    "description": "Surprise can have any valence; that is, it can be neutral/moderate, pleasant, unpleasant, positive, or negative.",
+    "img": [
+      {
+        "0": "img/surprise/0.jpg",
+        "1": "img/surprise/1.jpg",
+        "2": "img/surprise/2.jpg",
+        "3": "img/surprise/3.jpg",
+        "4": "img/surprise/4.jpg"
+      }
+    ]
   },
   {
     "name": "Captivity",
     "uid": "iN-0182-007",
-    "description": "The state or period of being held, imprisoned, enslaved, or confined."
+    "description": "The state or period of being held, imprisoned, enslaved, or confined.",
+    "img": [
+      {
+        "0": "img/captivity/0.jpg",
+        "1": "img/captivity/1.jpg",
+        "2": "img/captivity/2.jpg",
+        "3": "img/captivity/3.jpg",
+        "4": "img/captivity/4.jpg"
+      }
+    ]
   },
   {
     "name": "Flourishing",
     "uid": "iN-0182-008",
-    "description": "Developing rapidly and successfully; thriving."
+    "description": "Developing rapidly and successfully; thriving.",
+    "img": [
+      {
+        "0": "img/flourishing/0.jpg",
+        "1": "img/flourishing/1.jpg",
+        "2": "img/flourisihing/2.jpg",
+        "3": "img/flourishing/3.jpg",
+        "4": "img/flourishing/4.jpg"
+      }
+    ]
   },
   {
     "name": "Freedom",
     "uid": "iN-0182-009",
-    "description": "Freedom, generally, is having the ability to act or change without restraint."
+    "description": "Freedom, generally, is having the ability to act or change without restraint.",
+    "img": [
+      {
+        "0": "img/freedom/0.jpg",
+        "1": "img/freedom/1.jpg",
+        "2": "img/freedom/2.jpg",
+        "3": "img/freedom/3.jpg",
+        "4": "img/freedom/4.jpg"
+      }
+    ]
   },
   {
     "name": "Garden",
     "uid": "iN-0182-010",
-    "description": "A garden is a planned space, usually outdoors, set aside for the display, cultivation, or enjoyment of plants and other forms of nature."
+    "description": "A garden is a planned space, usually outdoors, set aside for the display, cultivation, or enjoyment of plants and other forms of nature.",
+    "img": [
+      {
+        "0": "img/garden/0.jpg",
+        "1": "img/garden/1.jpg",
+        "2": "img/garden/2.jpg",
+        "3": "img/garden/3.jpg",
+        "4": "img/garden/4.jpg"
+      }
+    ]
   },
   {
     "name": "Midnight",
     "uid": "iN-0182-011",
-    "description": "Midnight is the transition time between days, sometimes known as the Witching Hour, the time of night associated with supernatural events."
+    "description": "Midnight is the transition time between days, sometimes known as the Witching Hour, the time of night associated with supernatural events.",
+    "img": [
+      {
+        "0": "img/midnight/0.jpg",
+        "1": "img/midnight/1.jpg",
+        "2": "img/midnight/2.jpg",
+        "3": "img/midnight/3.jpg",
+        "4": "img/midnight/4.jpg"
+      }
+    ]
   },
   {
     "name": "Tattoo",
     "uid": "iN-0182-012",
-    "description": "A tattoo is a permanent kind of body art present in many cultures."
+    "description": "A tattoo is a permanent kind of body art present in many cultures.",
+    "img": [
+      {
+        "0": "img/tattoo/0.jpg",
+        "1": "img/tattoo/1.jpg",
+        "2": "img/tattoo/2.jpg",
+        "3": "img/tattoo/3.jpg",
+        "4": "img/tattoo/4.jpg"
+      }
+    ]
   },
   {
     "name": "Galaxy",
     "uid": "iN-0182-013",
-    "description": "A galaxy is a gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter."
+    "description": "A galaxy is a gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter.",
+    "img": [
+      {
+        "0": "img/galaxy/0.jpg",
+        "1": "img/galaxy/1.jpg",
+        "2": "img/galaxy/2.jpg",
+        "3": "img/galaxy/3.jpg",
+        "4": "img/galaxy/4.jpg"
+      }
+    ]
   },
   {
     "name": "Allure",
     "uid": "iN-0182-014",
-    "description": "The quality of being powerfully and mysteriously attractive or fascinating."
+    "description": "The quality of being powerfully and mysteriously attractive or fascinating.",
+    "img": [
+      {
+        "0": "img/allure/0.jpg",
+        "1": "img/allure/1.jpg",
+        "2": "img/allure/2.jpg",
+        "3": "img/allure/3.jpg",
+        "4": "img/allure/4.jpg"
+      }
+    ]
   },
   {
     "name": "Pride",
     "uid": "iN-0182-015",
-    "description": "Pride is an emotional state attaining positive affect from the value of a person or thing with which one has an intimate connection."
+    "description": "Pride is an emotional state attaining positive affect from the value of a person or thing with which one has an intimate connection.",
+    "img": [
+      {
+        "0": "img/pride/0.jpg",
+        "1": "img/pride/1.jpg",
+        "2": "img/pride/2.jpg",
+        "3": "img/pride/3.jpg",
+        "4": "img/pride/4.jpg"
+      }
+    ]
   },
   {
     "name": "Adventure",
     "uid": "iN-0182-016",
-    "description": "An adventure is an exciting experience that is typically bold, sometimes risky, undertaking."
+    "description": "An adventure is an exciting experience that is typically bold, sometimes risky, undertaking.",
+    "img": [
+      {
+        "0": "img/adventure/0.jpg",
+        "1": "img/adventure/1.jpg",
+        "2": "img/adventure/2.jpg",
+        "3": "img/adventure/3.jpg",
+        "4": "img/adventure/4.jpg"
+      }
+    ]
   },
   {
     "name": "Remarkable",
     "uid": "iN-0182-017",
-    "description": "worthy of attention; striking."
+    "description": "worthy of attention; striking.",
+    "img": [
+      {
+        "0": "img/remarkable/0.jpg",
+        "1": "img/remarkable/1.jpg",
+        "2": "img/remarkable/2.jpg",
+        "3": "img/remarkable/3.jpg",
+        "4": "img/remarkable/4.jpg"
+      }
+    ]
   },
   {
     "name": "Power",
     "uid": "iN-0182-018",
-    "description": "the capacity or ability to direct or influence the behaviour of others or the course of events."
+    "description": "the capacity or ability to direct or influence the behaviour of others or the course of events.",
+    "img": [
+      {
+        "0": "img/power/0.jpg",
+        "1": "img/power/1.jpg",
+        "2": "img/power/2.jpg",
+        "3": "img/power/3.jpg",
+        "4": "img/power/4.jpg"
+      }
+    ]
   },
   {
     "name": "Revolution",
     "uid": "iN-0182-019",
-    "description": "A radical and pervasive change in society and the social structure, especially one made suddenly."
+    "description": "A radical and pervasive change in society and the social structure, especially one made suddenly.",
+    "img": [
+      {
+        "0": "img/revolution/0.jpg",
+        "1": "img/revolution/1.jpg",
+        "2": "img/revolution/2.jpg",
+        "3": "img/revolution/3.jpg",
+        "4": "img/revolution/4.jpg"
+      }
+    ]
   },
   {
     "name": "Destiny",
     "uid": "iN-0182-020",
-    "description": "Events that will necessarily happen to a particular person or thing in the future."
+    "description": "Events that will necessarily happen to a particular person or thing in the future.",
+    "img": [
+      {
+        "0": "img/destiny/0.jpg",
+        "1": "img/destiny/1.jpg",
+        "2": "img/destiny/2.jpg",
+        "3": "img/destiny/3.jpg",
+        "4": "img/destiny/4.jpg"
+      }
+    ]
   },
   {
     "name": "Shadows",
     "uid": "iN-0182-021",
-    "description": "Used in reference to proximity, ominous oppressiveness, or sadness and gloom."
+    "description": "Used in reference to proximity, ominous oppressiveness, or sadness and gloom.",
+    "img": [
+      {
+        "0": "img/shadows/0.jpg",
+        "1": "img/shadows/1.jpg",
+        "2": "img/shadows/2.jpg",
+        "3": "img/shadows/3.jpg",
+        "4": "img/shadows/4.jpg"
+      }
+    ]
   },
   {
     "name": "Myth",
     "uid": "iN-0182-022",
-    "description": "A traditional, legendary tale, concerning some being or hero or event, with or without a determinable basis of fact."
+    "description": "A traditional, legendary tale, concerning some being or hero or event, with or without a determinable basis of fact.",
+    "img": [
+      {
+        "0": "img/myth/0.jpg",
+        "1": "img/myth/1.jpg",
+        "2": "img/myth/2.jpg",
+        "3": "img/myth/3.jpg",
+        "4": "img/myth/4.jpg"
+      }
+    ]
   },
   {
     "name": "Tarot",
     "uid": "iN-0182-023",
-    "description": "Playing cards, traditionally a pack of 78 with five suits, used for fortune-telling and in certain games."
+    "description": "Playing cards, traditionally a pack of 78 with five suits, used for fortune-telling and in certain games.",
+    "img": [
+      {
+        "0": "img/tarot/0.jpg",
+        "1": "img/tarot/1.jpg",
+        "2": "img/tarot/2.jpg",
+        "3": "img/tarot/3.jpg",
+        "4": "img/tarot/4.jpg"
+      }
+    ]
   },
   {
     "name": "Skull",
     "uid": "iN-0182-024",
-    "description": "A bone framework enclosing the brain of a vertebrate."
+    "description": "A bone framework enclosing the brain of a vertebrate.",
+    "img": [
+      {
+        "0": "img/skull/0.jpg",
+        "1": "img/skull/1.jpg",
+        "2": "img/skull/2.jpg",
+        "3": "img/skull/3.jpg",
+        "4": "img/skull/4.jpg"
+      }
+    ]
   },
   {
     "name": "Decay",
     "uid": "iN-0182-025",
-    "description": "The state or process of rotting or decomposition."
+    "description": "The state or process of rotting or decomposition.",
+    "img": [
+      {
+        "0": "img/decay/0.jpg",
+        "1": "img/decay/1.jpg",
+        "2": "img/decay/2.jpg",
+        "3": "img/decay/3.jpg",
+        "4": "img/decay/4.jpg"
+      }
+    ]
   },
   {
     "name": "Mushrooms",
     "uid": "iN-0182-026",
-    "description": "a fungal growth that typically takes the form of a domed cap on a stalk, with gills on the underside of the cap."
+    "description": "a fungal growth that typically takes the form of a domed cap on a stalk, with gills on the underside of the cap.",
+    "img": [
+      {
+        "0": "img/mushrooms/0.jpg",
+        "1": "img/mushrooms/1.jpg",
+        "2": "img/mushrooms/2.jpg",
+        "3": "img/mushrooms/3.jpg",
+        "4": "img/mushrooms/4.jpg"
+      }
+    ]
   },
   {
     "name": "Warrior",
     "uid": "iN-0182-027",
-    "description": "A brave or experienced soldier or fighter, especially within the context of a tribal or clan-based warrior culture"
+    "description": "A brave or experienced soldier or fighter, especially within the context of a tribal or clan-based warrior culture",
+    "img": [
+      {
+        "0": "img/warrior/0.jpg",
+        "1": "img/warrior/1.jpg",
+        "2": "img/warrior/2.jpg",
+        "3": "img/warrior/3.jpg",
+        "4": "img/warrior/4.jpg"
+      }
+    ]
   },
   {
     "name": "Treasure",
     "uid": "iN-0182-028",
-    "description": "To take great care of something because you love it or consider it very valuable."
+    "description": "To take great care of something because you love it or consider it very valuable.",
+    "img": [
+      {
+        "0": "img/treasure/0.jpg",
+        "1": "img/treasure/1.jpg",
+        "2": "img/treasure/2.jpg",
+        "3": "img/treasure/3.jpg",
+        "4": "img/treasure/4.jpg"
+      }
+    ]
   },
   {
     "name": "Masculinity",
     "uid": "iN-0182-029",
-    "description": "Masculinity is a set of attributes, behaviors, and roles traditionally associated with boys and men."
+    "description": "Masculinity is a set of attributes, behaviors, and roles traditionally associated with boys and men.",
+    "img": [
+      {
+        "0": "img/masculinity/0.jpg",
+        "1": "img/masculinity/1.jpg",
+        "2": "img/masculinity/2.jpg",
+        "3": "img/masculinity/3.jpg",
+        "4": "img/masculinity/4.jpg"
+      }
+    ]
   },
   {
     "name": "Femininity",
     "uid": "iN-0182-030",
-    "description": "Femininity is a set of attributes, behaviors, and roles traditionally associated with women and girls."
+    "description": "Femininity is a set of attributes, behaviors, and roles traditionally associated with women and girls.",
+    "img": [
+      {
+        "0": "img/femininity/0.jpg",
+        "1": "img/femininity/1.jpg",
+        "2": "img/femininity/2.jpg",
+        "3": "img/femininity/3.jpg",
+        "4": "img/femininity/4.jpg"
+      }
+    ]
   }
 ]
