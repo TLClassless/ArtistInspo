@@ -1,6 +1,5 @@
 <script>
-    import {chosen} from "../js/arrayFunc";
-    import { arrayFunc } from "../js/arrayFunction";    
+    import {chosen} from "../js/arrayFunction";
 </script>
 
 <div id="content"> 

@@ -1,3 +1,7 @@
-const array = require("../js/array.json");
-const randomElement = array[Math.floor(Math.random() * array.length)];
-console.log(JSON.stringify(randomElement));
+import array from "../js/array.json";
+
+let chooser = () => {
+  return array[Math.floor(Math.random() * array.length)];
+};
+
+export let chosen = chooser();
