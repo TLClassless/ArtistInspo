@@ -1,8 +1,8 @@
 <script>
       import { Swipe, SwipeItem } from "svelte-swipe"; // gzipped 3.37 KB
-      import { chosen } from "../js/arrayFunction";
+      import { imgOne, imgTwo, imgThree, imgFour, imgFive } from "../js/arrayFunction";
 
-  console.log(chosen.img[0])
+  console.log(imgOne);
 
 let autoplay = false;
 let delay = 2000; //ms
@@ -15,23 +15,23 @@ let defaultIndex = 0; //start from 0
     <Swipe {showIndicators} {autoplay} {delay} {transitionDuration} {defaultIndex}>
 
       <SwipeItem>
-        <span class="image0"><img src="{chosen.img[0]}" alt="img 1"></span>
+        <img src="{imgOne}" alt="img 1">
       </SwipeItem>
   
       <SwipeItem>
-        <span class="image1"><img src="{chosen.img[1]}" alt="img 2"></span>
+        <img src="{imgTwo}" alt="img 2">
       </SwipeItem>
   
       <SwipeItem>
-        <span class="image2"><img src="{chosen.img[2]}" alt="img 3"></span>
+        <img src="{imgThree}" alt="img 3">
       </SwipeItem>
 
       <SwipeItem>
-        <span class="image3"><img src="{chosen.img[3]}" alt="img 4"></span>
+        <img src="{imgFour}" alt="img 4">
       </SwipeItem>
 
       <SwipeItem>
-        <span class="image4"><img src="{chosen.img[4]}" alt="img 5"></span>
+        <img src="{imgFive}" alt="img 5">
       </SwipeItem>
 
     </Swipe>
@@ -48,14 +48,8 @@ let defaultIndex = 0; //start from 0
 }
 
 img {
-  height: 100%;
-}
-
-@media screen and (max-height: 800px) {
-  img {
-    height: auto;
-    width: 100%;
-  }
+  width: 100%;
+  height: auto;
 }
 
 

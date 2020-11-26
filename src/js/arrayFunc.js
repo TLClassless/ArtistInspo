@@ -1,20 +1,3 @@
-function shuffle(array) {
-  var i = array.length,
-    j = 0,
-    temp;
-
-  while (i--) {
-    j = Math.floor(Math.random() * i);
-
-    // swap randomly chosen element with current element
-    temp = array[i];
-    array[i] = array[j];
-    array[j] = temp;
-  }
-
-  return array;
-}
-
 var nostalgia = {
   name: "Nostalgia",
   uid: "iN-0182-001",
