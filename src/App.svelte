@@ -10,7 +10,7 @@
 <style>
 	body {
 		max-width: 450px;
-		max-height: 1000px;
+		max-height: 900px;
 		min-height: 600px;
 	}
 

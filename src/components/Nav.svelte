@@ -12,7 +12,7 @@
         width: 100%;
         display: flex;
         flex-direction: row;
-        justify-content: center;
+        justify-content: right;
     }
 
     span {
