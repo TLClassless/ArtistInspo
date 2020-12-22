@@ -12,7 +12,7 @@
         width: 100%;
         display: flex;
         flex-direction: row;
-        justify-content: right;
+        justify-content: flex-end;
     }
 
     span {
