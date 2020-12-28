@@ -86,7 +86,7 @@
   {
     "name": "Flourishing",
     "uid": "iN-0812-008",
-    "description": "Developing rapidly and successfully; thriving.",
+    "description": "Developing rapidly and successfully; Thriving in the process.",
     "img": [
       "img/flourishing/0.jpg",
       "img/flourishing/1.jpg",
@@ -266,7 +266,7 @@
   {
     "name": "Skull",
     "uid": "iN-0812-024",
-    "description": "A bone framework enclosing the brain of a vertebrate.",
+    "description": "A bone framework enclosing the brain of a vertebrate. The skull is composed of two parts: the cranium and the mandible.",
     "img": [
       "img/skull/0.jpg",
       "img/skull/1.jpg",
@@ -278,7 +278,7 @@
   {
     "name": "Decay",
     "uid": "iN-0812-025",
-    "description": "The state or process of rotting or decomposition.",
+    "description": "The state or process of rotting or decomposition. Degredation.",
     "img": [
       "img/decay/0.jpg",
       "img/decay/1.jpg",
